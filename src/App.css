@@ -1,0 +1,15 @@
+.container{
+    border-color: gray;
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    gap: 50px;
+    font-size: 15px;
+}
+h3{
+    background-color: #5bc0de;
+}
+.p{
+    font-family: 'Times New Roman', Times, serif;
+}
